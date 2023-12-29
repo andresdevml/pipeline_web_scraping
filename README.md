@@ -10,6 +10,7 @@ Este proyecto consiste en un sistema de extracción de noticias del portal "El E
 * Pandas
 * Request
 * Urllib
+* Subprocess
 
 
 # Extracción de datos 🗃️
