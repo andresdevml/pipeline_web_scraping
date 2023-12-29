@@ -1,7 +1,8 @@
 # Pipeline de Web Scraping 🌐
 
 Este proyecto consiste en un sistema de extracción de noticias del portal "El Estímulo" utilizando BeautifulSoup4 (BS4) para el web scraping. El objetivo es extraer el texto, título y enlace de cada artículo publicado en el sitio web.
-Herramientas 🔧
+
+# Herramientas 🔧
 
 * Python
 * BeautifulSoup4 (bs4)
