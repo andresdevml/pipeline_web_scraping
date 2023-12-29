@@ -15,7 +15,7 @@ Este proyecto consiste en un sistema de extracción de noticias del portal "El E
 
 # Extracción de datos 🗃️
 
-El primer script se encarga de extraer el texto, título y enlace de cada artículo publicado en "El Estímulo". Este proceso corresponde al script -**extract.py**_.
+El primer script se encarga de extraer el texto, título y enlace de cada artículo publicado en "El Estímulo". Este proceso corresponde al script _**extract.py**_.
 
 # Procesamiento de datos 📊
 
