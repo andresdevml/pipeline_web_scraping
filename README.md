@@ -23,4 +23,4 @@ Una vez extraídos los datos, el segundo script del proyecto se encarga de proce
 
 # Ejecución de scripts 🚀
 
-Finalmente, el tercer script del proyecto se encarga de ejecutar los dos scripts anteriores. Este proceso corresponde al script _**pyplan.py**_.
+Finalmente, el tercer script del proyecto se encarga de ejecutar los dos scripts anteriores en una unica sesión. Este proceso corresponde al script _**pyplan.py**_.
