@@ -11,14 +11,14 @@ Herramientas 🔧
 * Urllib
 
 
-Extracción de datos 🗃️
+# Extracción de datos 🗃️
 
 El primer script se encarga de extraer el texto, título y enlace de cada artículo publicado en "El Estímulo". Este proceso corresponde al script -**extract.py**_.
 
-Procesamiento de datos 📊
+# Procesamiento de datos 📊
 
 Una vez extraídos los datos, el segundo script del proyecto se encarga de procesarlos y enriquecerlos. Este proceso corresponde al script _**process.py**_.
 
-Ejecución de scripts 🚀
+# Ejecución de scripts 🚀
 
 Finalmente, el tercer script del proyecto se encarga de ejecutar los dos scripts anteriores. Este proceso corresponde al script _**pyplan.py**_.
